@@ -1,0 +1,26 @@
+
+
+2016-07-25 10:37:16,309 [9] DEBUG PDFMerge.Program - Parametro destinazione (Dest): f:\test\destinazione.pdf
+2016-07-25 10:37:16,329 [9] DEBUG PDFMerge.Program - Parametro destinazione (A): f:\test\201512registroEmessiSezioneI.pdf
+2016-07-25 10:37:16,330 [9] DEBUG PDFMerge.Program - Parametro destinazione (B): f:\temp\201512registroEmessiSezioneIRiepilogo.pdf
+2016-07-25 10:37:16,331 [9] DEBUG PDFMerge.Program - Inizializzazione applicazione effettuata correttamente
+2016-07-25 10:38:23,470 [9] DEBUG PDFMerge.Program - Parametro destinazione (Dest): f:\test\destinazione.pdf
+2016-07-25 10:38:23,490 [9] DEBUG PDFMerge.Program - Parametro destinazione (A): f:\test\201512registroEmessiSezioneI.pdf
+2016-07-25 10:38:23,493 [9] DEBUG PDFMerge.Program - Parametro destinazione (B): f:\temp\201512registroEmessiSezioneIRiepilogo.pdf
+2016-07-25 10:38:23,494 [9] DEBUG PDFMerge.Program - Inizializzazione applicazione effettuata correttamente
+2016-07-25 10:43:15,191 [8] DEBUG PDFMerge.Program - Parametro destinazione (Dest): f:\test\destinazione.pdf
+2016-07-25 10:43:15,211 [8] DEBUG PDFMerge.Program - Parametro destinazione (A): f:\test\201512registroEmessiSezioneI.pdf
+2016-07-25 10:43:15,211 [8] DEBUG PDFMerge.Program - Parametro destinazione (B): 201512registroEmessiSezioneIRiepilogo.pdf
+2016-07-25 10:43:15,227 [8] ERROR PDFMerge.Program - System.Exception: File A non trovato: 201512registroEmessiSezioneIRiepilogo.pdf
+
+   in PDFMerge.Program.Main(String[] args) in F:\Progetti\PDFMerge\PDFMerge\Program.cs:riga 67
+2016-07-25 10:43:55,127 [9] DEBUG PDFMerge.Program - Parametro destinazione (Dest): f:\test\destinazione.pdf
+2016-07-25 10:43:55,146 [9] DEBUG PDFMerge.Program - Parametro destinazione (A): f:\test\201512registroEmessiSezioneI.pdf
+2016-07-25 10:43:55,146 [9] DEBUG PDFMerge.Program - Parametro destinazione (B): 201512registroEmessiSezioneIRiepilogo.pdf
+2016-07-25 10:43:55,163 [9] ERROR PDFMerge.Program - System.Exception: File A non trovato: 201512registroEmessiSezioneIRiepilogo.pdf
+
+   in PDFMerge.Program.Main(String[] args) in F:\Progetti\PDFMerge\PDFMerge\Program.cs:riga 67
+2016-07-25 10:44:22,270 [9] DEBUG PDFMerge.Program - Parametro destinazione (Dest): f:\test\destinazione.pdf
+2016-07-25 10:44:22,289 [9] DEBUG PDFMerge.Program - Parametro destinazione (A): f:\test\201512registroEmessiSezioneI.pdf
+2016-07-25 10:44:22,290 [9] DEBUG PDFMerge.Program - Parametro destinazione (B): f:\test\201512registroEmessiSezioneIRiepilogo.pdf
+2016-07-25 10:44:22,291 [9] DEBUG PDFMerge.Program - Inizializzazione applicazione effettuata correttamente

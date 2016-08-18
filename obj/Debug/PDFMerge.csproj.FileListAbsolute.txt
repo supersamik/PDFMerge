@@ -1,0 +1,13 @@
+F:\Progetti\PDFMerge\PDFMerge\bin\Debug\PDFMerge.exe.config
+F:\Progetti\PDFMerge\PDFMerge\obj\Debug\PDFMerge.csprojResolveAssemblyReference.cache
+F:\Progetti\PDFMerge\PDFMerge\bin\Debug\PDFMerge.exe
+F:\Progetti\PDFMerge\PDFMerge\bin\Debug\PDFMerge.pdb
+F:\Progetti\PDFMerge\PDFMerge\bin\Debug\itextsharp.dll
+F:\Progetti\PDFMerge\PDFMerge\bin\Debug\log4net.dll
+F:\Progetti\PDFMerge\PDFMerge\bin\Debug\itextsharp.xml
+F:\Progetti\PDFMerge\PDFMerge\bin\Debug\log4net.xml
+F:\Progetti\PDFMerge\PDFMerge\obj\Debug\PDFMerge.exe
+F:\Progetti\PDFMerge\PDFMerge\obj\Debug\PDFMerge.pdb
+F:\Progetti\Kettle\trunk\Registri bollati da NewPtf\PDFMerge\PDFMerge\bin\Debug\PDFMerge.exe.config
+F:\Progetti\Kettle\trunk\Registri bollati da NewPtf\PDFMerge\PDFMerge\obj\Debug\PDFMerge.exe
+F:\Progetti\Kettle\trunk\Registri bollati da NewPtf\PDFMerge\PDFMerge\obj\Debug\PDFMerge.pdb
